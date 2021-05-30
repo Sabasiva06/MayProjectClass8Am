@@ -9,6 +9,20 @@ public class SampleJava {
 		System.out.println(s);
 	}
 
+	public void name() {
+		System.out.println("Name");
+	}
+
+	public void centre() {
+		System.out.println("Chennai");
+
+	}
+
+	public void placce() {
+		System.out.println("Coimbatore");
+
+	}
+
 	public void add() {
 		System.out.println("add of two given number");
 
@@ -21,7 +35,6 @@ public class SampleJava {
 
 	public void product() {
 		System.out.println("Product of two given number");
-
 	}
 
 }
