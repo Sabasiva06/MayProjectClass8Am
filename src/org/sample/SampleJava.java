@@ -37,4 +37,8 @@ public class SampleJava {
 		System.out.println("Product of two given number");
 	}
 
+	public void iphone() {
+		System.out.println("Iphone");
+
+	}
 }
