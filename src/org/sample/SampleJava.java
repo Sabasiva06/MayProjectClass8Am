@@ -9,4 +9,19 @@ public class SampleJava {
 		System.out.println(s);
 	}
 
+	public void add() {
+		System.out.println("add of two given number");
+
+	}
+
+	public void sub() {
+		System.out.println("sub of two given number");
+
+	}
+
+	public void product() {
+		System.out.println("Product of two given number");
+
+	}
+
 }
