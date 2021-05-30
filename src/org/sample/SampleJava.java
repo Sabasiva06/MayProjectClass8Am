@@ -9,4 +9,18 @@ public class SampleJava {
 		System.out.println(s);
 	}
 
+	public void name() {
+		System.out.println("Name");
+	}
+
+	public void centre() {
+		System.out.println("Chennai");
+
+	}
+
+	public void placce() {
+		System.out.println("Coimbatore");
+
+	}
+
 }
